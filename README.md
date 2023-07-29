@@ -1,0 +1,1 @@
+# nextjs-plugin-a11y-img
